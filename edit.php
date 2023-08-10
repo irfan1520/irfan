@@ -6,9 +6,8 @@
 </head>
 <body>
 	<div class="judul">		
-		<h1>Membuat CRUD Dengan PHP Dan MySQL</h1>
-		<h2>Menampilkan data dari database</h2>
-		<h3>www.malasngoding.com</h3>
+		<h1>TUGAS SESI TES PROJECT </h1>
+		<h2>DEVELOPER PHP</h2>
 	</div>
 	
 	<br/>
